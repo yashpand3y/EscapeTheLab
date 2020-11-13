@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+EscapeTheLab/Saved/Config/CrashReportClient/UE4CC-Windows-F2DB6A7B4D25F565CC46E29984A17802/CrashReportClient.ini
+EscapeTheLab/Saved/Logs/EscapeTheLab.log
